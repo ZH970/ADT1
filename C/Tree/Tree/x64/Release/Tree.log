@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  tree.c
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(86,11): warning C4013: “Delete”未定义；假设外部返回 int
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(159,10): warning C4013: “depthOfTree”未定义；假设外部返回 int
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(247,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(247,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(247,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(247,10): message : 此参数用作缓冲区大小
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(266,18): warning C4047: “函数”:“const char *”与“char (*)[50]”的间接级别不同
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(266,13): warning C4024: “atoi”: 形参和实参 1 的类型不同
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(288,18): warning C4047: “函数”:“const char *”与“char (*)[50]”的间接级别不同
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(288,13): warning C4024: “atoi”: 形参和实参 1 的类型不同
+J:\Programing\C\ADT\C\Tree\Tree\Sources\tree.c(240,7): warning C4047: “初始化”:“char”与“char [2]”的间接级别不同
+  正在生成代码
+  4 of 15 functions (26.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Tree.vcxproj -> J:\Programing\C\ADT\C\Tree\Tree\Release\Tree.exe
